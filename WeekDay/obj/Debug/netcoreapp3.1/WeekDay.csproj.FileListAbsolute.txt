@@ -1,0 +1,13 @@
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.csprojAssemblyReference.cache
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.AssemblyInfoInputs.cache
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.AssemblyInfo.cs
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.csproj.CoreCompileInputs.cache
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.exe
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.deps.json
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.runtimeconfig.json
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.runtimeconfig.dev.json
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.dll
+C:\Users\Radells\source\repos\WeekDay\WeekDay\bin\Debug\netcoreapp3.1\WeekDay.pdb
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.dll
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.pdb
+C:\Users\Radells\source\repos\WeekDay\WeekDay\obj\Debug\netcoreapp3.1\WeekDay.genruntimeconfig.cache
